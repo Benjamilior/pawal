@@ -1,0 +1,1 @@
+SPREADSHEET_ID = '1VU3_P_EqdSJzabp1eCpNdoyVP7LQfs8FkHkwFabac5A' #Para Verificador
